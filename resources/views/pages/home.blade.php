@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Official Company Verification - PT Nama Lengkap Perusahaan</title>
+    <title>Official Company Verification - PT Karya Anak Muda Inovatif</title>
     <!-- Include Vite for Tailwind CSS and JS -->
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <style>
